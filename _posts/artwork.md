@@ -1,5 +1,6 @@
 ---
 title: "Artwork"
+layout: post
 excerpt: "Artwork and Logos for various projects that are free to use but adhere to the License."
 header:
   ###image: /assets/images/mick-haupt-8tN0Uq0GjCs-unsplash_800X539.jpg
