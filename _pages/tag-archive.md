@@ -2,6 +2,6 @@
 title: "Posts by Tag"
 permalink: /tags/
 xlayout: tags
-layout: default
+layout: collection
 author_profile: true
 ---
