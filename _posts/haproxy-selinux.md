@@ -7,7 +7,7 @@ read_time: true
 comments: true
 share: false
 related: false
-collection: examples
+xcollection: examples
 ---
 
 
