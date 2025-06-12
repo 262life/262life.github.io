@@ -1,7 +1,7 @@
 ---
 title: "Projects"
-permalink: /projects/
-xlayout: tags
 layout: collection
+permalink: /projects/
+collection: projects
 author_profile: true
 ---
