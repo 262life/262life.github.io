@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "tmux"
 summary: "Quick and Easy guide to tmux"
 header:
