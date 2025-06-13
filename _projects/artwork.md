@@ -2,11 +2,10 @@
 title: "Artwork"
 excerpt: "Artwork and Logos for various projects that are free to use but adhere to the License."
 header:
-  ###image: /assets/images/mick-haupt-8tN0Uq0GjCs-unsplash_800X539.jpg
-  teaser: assets/images/mick-haupt-8tN0Uq0GjCs-unsplash_640X431.jpg
+  teaser: /assets/images/mick-haupt-8tN0Uq0GjCs-unsplash_640X431.jpg
 sidebar:
   - title: "Purpose"
-    ximage: https://262.life/assets/images/logo.png
+    image: /assets/images/logo.png
     image_alt: "logo"
     text: "Various Graphics used in projects"
   - title: "Special Thanks"
