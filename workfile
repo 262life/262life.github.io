@@ -1,0 +1,9 @@
+#!/bin/bash
+# Define the root folder to search (current directory by default)
+root_folder="."
+# Recursively search for references starting with /assets/images in all .md files
+grep -rhoE '/assets/images[^") ]+' "$root_folder" --include="*.md" | sort -u |
+while read x
+do
+ cp ../262life.github.io${x} assets/images/.
+done

@@ -1,10 +1,6 @@
 ---
-layout: single
 title:  "Setup K3s Cluster"
 excerpt_separator: <!--more-->
-header:
-  xxxteaser: /assets/images/twitter-card.png
-author_page: true
 categories:
   - Edge Case
 tags:
