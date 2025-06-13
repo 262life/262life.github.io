@@ -1,7 +1,7 @@
 ---
 title: "Posts"
 layout: collection
-permalink: /posts/
+permalink: /p/
 collection: posts
 author_profile: true
 ---
