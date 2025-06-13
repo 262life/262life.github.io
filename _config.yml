@@ -31,8 +31,8 @@ email			 : "bob@262.life"
 minimal_mistakes_skin: "air"
 search: true
 
-twitter_username: username
-github_username: username
+#twitter_username: username
+#github_username: username
 
 # Build settings
 markdown: kramdown
