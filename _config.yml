@@ -27,7 +27,7 @@ linkedin_image           : "/assets/images/linkedin-site.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-email:			 : bob@262.life
+email:			 : "bob@262.life"
 minimal_mistakes_skin: "air"
 search: true
 
