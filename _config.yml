@@ -8,21 +8,31 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+
+# Site Settings
+locale                   : "en-US"
+title                    : "  " # "262life"
+title_separator          : "-"
+subtitle                 : " " # "Bob's life..."
+name                     : "Bob Liotta"
+description              : "Enterprise Architecture is totally my DNA!"
+url                      : "https://262.life"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/teaser.png"
+logo                     : "/assets/images/logo.png"
+og_image                 : "/assets/images/twitter-card.png"
+twitter_image            : "/assets/images/twitter-site.png"
+linkedin_image           : "/assets/images/linkedin-site.png"
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+email:			 : bob@262.life
 minimal_mistakes_skin: "air"
 search: true
+
+twitter_username: username
+github_username: username
 
 # Build settings
 markdown: kramdown
