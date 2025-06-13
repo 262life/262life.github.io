@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Setup K3s Cluster"
 excerpt_separator: <!--more-->
 header:
