@@ -5,6 +5,10 @@ excerpt_separator: <!--more-->
 header:
   xxxteaser: /assets/images/twitter-card.png
 author_page: true
+Categories:
+ - DIY
+Tags:
+ - xxx
 ---
 By default Rancher K3S comes with Traefik 1.7. We will setup K3S without Traefik ingress in this tutorial.
 
