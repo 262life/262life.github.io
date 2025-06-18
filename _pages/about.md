@@ -3,8 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-# Accomplishments
-
+# Accomplishment Journal 
 
 ## Architecture & Integration
 - Directed a global enterprise architecture initiative analyzing over 300 technologies to drive rationalized roadmaps for CL, A&O, and Corporate systems.
@@ -13,13 +12,12 @@ title: "About"
 
 ## AI, GenAI, & Digital Innovation
 - Delivered an AI Email Assistant using OpenAI LLM for Salesforce case handling — automated categorization and multilingual response generation.
-- Designed and launched an IDP platform to extract and validate transport documents, winning group-wide adoption using ABBYY.
-- Piloted a warehouse demand forecasting model using Google AI to optimize workforce planning in APAC.
-- Initiated KAI, a knowledge chatbot with Zebox startup, benchmarked against Copilot Studio.
+- Enabled delivery of IDP PoC using ABBYY for scanned document automation in A&O operations.
+- Supported a warehouse forecasting PoC using Google Cloud ML to optimize workforce planning across APAC.
+- Engaged in PoC work with Zebox startup on knowledge chatbot benchmarking Microsoft Copilot Studio.
 
 ## Platform & DevOps Engineering
-- Created an internal ESB to manage 300K+ daily transactions not suited for global bus.
-- Led transformation from waterfall to agile with CI/CD, boosting dev productivity by 50% in year one.
+- Led transformation from waterfall to agile with CI/CD, boosting development productivity by 50% in year one.
 - Implemented Docker/Kubernetes-based container platform for scalable, cost-effective infrastructure.
 
 ## Cost Optimization & Rationalization
@@ -28,7 +26,7 @@ title: "About"
 - Designed centralized version control and testing platforms adopted across all WebApps.
 
 ## Cybersecurity & Governance
-- Architected CEVA's CyberSecurity program at the enterprise level, including IAM, MDM, and IDP remediation projects.
+- Supported CEVA's cybersecurity roadmap, including IAM, MDM, and IDP remediation projects.
 - Migrated multiple legacy platforms to cloud-compliant, secure containers and hardened their interfaces for external use.
 - Built security-aligned SSO topology for BLX and Colis Prive while adhering to CEVA and Group standards.
 

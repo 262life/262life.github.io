@@ -73,7 +73,6 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Enterprise Architecture - It's totally my DNA"
   location         : "St. Augustine FL"
-  email            : "bob@262.life"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
