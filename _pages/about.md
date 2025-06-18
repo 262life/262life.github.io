@@ -3,6 +3,29 @@ permalink: /about/
 title: "About"
 ---
 
+# Professional Profile
+
+## Executive Summary
+Robert Liotta is a global technology leader with over two decades of experience architecting enterprise platforms, driving digital transformation, and embedding AI solutions across logistics and supply chain domains. As SVP Enterprise Architect at CEVA Logistics and former Chief Architect at Kuehne+Nagel, he has consistently aligned IT strategy with business needs, delivering measurable outcomes through modernization, rationalization, and innovation.
+
+## Leadership & Strategic Impact
+Robert is known for founding the Americas Architecture Board, establishing DevOps and CI/CD governance models, and reorganizing Enterprise Architecture into scalable functional domains. He mentors architecture teams, drives cross-functional alignment, and serves as a trusted advisor to senior stakeholders.
+
+## Innovation & Technical Excellence
+He has delivered AI-driven products such as an OpenAI Email Assistant for multilingual case handling and an IDP automation platform using ABBYY. Robert supported demand forecasting ML models in APAC and led integration with startup-led chatbot initiatives. He also engineered a high-throughput internal ESB processing 300K+ daily messages and modernized infrastructure with containers and microservices.
+
+## Platform Modernization & Cybersecurity
+Robert has architected converged platforms using CBD, MDM, and CFAST, and migrated legacy systems to secure, cloud-compliant containers. His contributions to CEVA’s cybersecurity roadmap included IAM, IDP remediation, and SSO architecture aligned with Group standards.
+
+## Core Strengths
+- Enterprise Architecture Strategy
+- Platform Engineering & Integration
+- AI, ML, and Intelligent Automation
+- DevOps & CI/CD Governance
+- Cybersecurity Architecture
+- Cost Optimization & Tool Rationalization
+- Global Team Leadership & Stakeholder Management
+
 # Accomplishment Journal 
 
 ## Architecture & Integration
