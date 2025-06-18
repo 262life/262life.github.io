@@ -7,7 +7,9 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 {:.nav__title}
+<div style="nav__title">
 ## Executive Summary
+</div>
 
 Robert Liotta is a global technology leader with over two decades of experience architecting enterprise platforms, driving digital transformation, and embedding AI solutions across logistics and supply chain domains. As SVP Enterprise Architect at CEVA Logistics and former Chief Architect at Kuehne+Nagel, he has consistently aligned IT strategy with business needs, delivering measurable outcomes through modernization, rationalization, and innovation.
 
