@@ -1,13 +1,14 @@
 ---
 permalink: /about/
-title: "Professional Profile"
+title: ""
 toc: true
 toc_label: "Key Points"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
-{:.nav__title}
-<h2 style="nav__title">
+{:.site-color}
+# Professional Profile
+
 ## Executive Summary
 </h2>
 
@@ -31,7 +32,7 @@ Robert has architected converged platforms using CBD, MDM, and CFAST, and migrat
 - Cost Optimization & Tool Rationalization
 - Global Team Leadership & Stakeholder Management
 
-{:.nav__title}
+{:.site-color}
 # Accomplishment Journal 
 
 ## Architecture & Integration
