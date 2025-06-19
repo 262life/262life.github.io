@@ -71,7 +71,7 @@ plugins:
 author:
   name             : "Bob Liotta"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Enterprise Architecture - It's totally my DNA"
+  bio              : "Enterprise Architecture - <br> It's totally my DNA"
   location         : "St. Augustine FL"
   links:
     - label: "Email"
