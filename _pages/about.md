@@ -60,4 +60,4 @@ Robert has architected converged platforms using CBD, MDM, and CFAST, and migrat
 ## Leadership & Strategy
 - Founded the Americas Architecture Board to mentor teams and ensure platform consistency across regions.
 - Reorganized EA into functional and technical domains with added leadership coverage per COE.
-- Served as technical governance lead for MyCEVA and led cross-functional integration with Ground, Rail, and CL.
+- Served as technical governance lead for MyCEVA and led cross-functional integration with Ground, Rail, Air, Ocean, and Contract Logistics.
