@@ -8,7 +8,6 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 {:.site-color}
 # Professional Profile
-
 ## Executive Summary
 
 Robert Liotta is a global technology leader with over two decades of experience architecting enterprise platforms, driving digital transformation, and embedding AI solutions across logistics and supply chain domains. As SVP Enterprise Architect at CEVA Logistics and former Chief Architect at Kuehne+Nagel, he has consistently aligned IT strategy with business needs, delivering measurable outcomes through modernization, rationalization, and innovation.
@@ -33,7 +32,6 @@ Robert has architected converged platforms using CBD, MDM, and CFAST, and migrat
 
 {:.site-color}
 # Accomplishment Journal 
-
 ## Architecture & Integration
 - Directed a global enterprise architecture initiative analyzing over 300 technologies to drive rationalized roadmaps for CL, A&O, and Corporate systems.
 - Led the architecture and deployment of a converged A&O solution using MDM and CFAST/CBD frameworks, enabling future integration with CDP.
