@@ -79,7 +79,7 @@ author:
       url: "mailto:bob@262.life"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://262.life"
+      #url: "https://262.life"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/262life_bob"
