@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /about2/
 title: ""
 toc: true
 toc_label: "Key Points"
