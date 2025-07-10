@@ -62,6 +62,7 @@ Robert has architected converged platforms using CBD, MDM, and CFAST, and migrat
 - Reorganized EA into functional and technical domains with added leadership coverage per COE.
 - Served as technical governance lead for MyCEVA and led cross-functional integration with Ground, Rail, Air, Ocean, and Contract Logistics.
 
+{:.site-color}
 # Technology Profile Summary
 
 As an enterprise architect and technology leader, I bring decades of experience driving complex digital transformation, platform modernization, and systems integration across global organizations. My technical portfolio spans cloud-native infrastructure, DevOps automation, full-stack development, enterprise integration, identity and access management, and custom platform engineering. Below is a categorized breakdown of the technologies I’ve deployed and led in production environments.
