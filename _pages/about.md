@@ -61,3 +61,144 @@ Robert has architected converged platforms using CBD, MDM, and CFAST, and migrat
 - Founded the Americas Architecture Board to mentor teams and ensure platform consistency across regions.
 - Reorganized EA into functional and technical domains with added leadership coverage per COE.
 - Served as technical governance lead for MyCEVA and led cross-functional integration with Ground, Rail, Air, Ocean, and Contract Logistics.
+
+# Technology Profile Summary
+
+As an enterprise architect and technology leader, I bring decades of experience driving complex digital transformation, platform modernization, and systems integration across global organizations. My technical portfolio spans cloud-native infrastructure, DevOps automation, full-stack development, enterprise integration, identity and access management, and custom platform engineering. Below is a categorized breakdown of the technologies I’ve deployed and led in production environments.
+
+---
+
+## Cloud-Native & Containerization
+
+- **Kubernetes** – Container orchestration platform used for automating deployment, scaling, and operations.
+- **Docker** – Container engine that simplifies application packaging and portability.
+- **Containerd** – Lightweight container runtime optimized for use with Kubernetes.
+- **Helm** – Package manager for Kubernetes applications supporting templated configurations and versioning.
+- **Velero** – Tool for backing up and restoring Kubernetes clusters.
+- **Rook-CephFS** – Cloud-native storage orchestration using Ceph integrated with Kubernetes.
+- **Ceph** – Distributed, software-defined storage system supporting block, file, and object storage.
+
+---
+
+## CI/CD & DevOps Tooling
+
+- **Jenkins** – Automation server for building and deploying CI/CD pipelines.
+- **GitLab** – DevOps platform combining source control with integrated pipelines and issue tracking.
+- **Artifactory** – Universal artifact repository manager for build artifacts and containers.
+- **SonarQube** – Code quality and security analysis platform.
+- **Kanboard** – Visual project management tool using the Kanban methodology.
+
+---
+
+## Monitoring & Observability
+
+- **OpenTelemetry** – Observability framework for collecting distributed traces and metrics.
+- **OpenSearch** – Open-source search and analytics engine for operational data and logs.
+- **Prometheus** – Metrics collection and alerting toolkit.
+- **Grafana** – Visualization platform for observability dashboards.
+- **Centreon** – Infrastructure and service monitoring for IT operations.
+- **Jaeger** – Distributed tracing system used with OpenTelemetry.
+
+---
+
+## Big Data & Messaging
+
+- **Kafka** – Distributed event streaming platform for building real-time data pipelines.
+- **Pulsar** – Scalable pub-sub messaging platform with native stream storage.
+- **Cassandra** – Highly scalable NoSQL database for large-scale time-series or wide-column data.
+- **ElasticSearch** – Distributed search and analytics engine.
+- **Confluent** – Commercial platform extending Apache Kafka with enterprise features.
+- **PostgreSQL** – Advanced open-source relational database with enterprise-grade features.
+- **Dataiku** – Visual platform for data science workflows and machine learning.
+
+---
+
+## Frontend Frameworks & Libraries
+
+- **React** – Component-based JavaScript library for building user interfaces.
+- **Next.js** – React-based framework supporting server-side rendering and routing.
+- **PrimeReact** – UI component library for React-based enterprise applications.
+- **PrimeFaces** – JSF-based UI library for Java web applications.
+- **Apollo** – GraphQL client library for integrating APIs and managing front-end data.
+
+---
+
+## Security, Identity & Integration
+
+- **JWT** – Token format used for stateless authentication between parties.
+- **OAuth2** – Authorization framework enabling third-party access delegation.
+- **LDAP** – Directory protocol used for user and access management.
+- **Camunda** – Workflow and decision automation engine using BPMN/DMN standards.
+- **ServiceNow** – IT service management platform for workflow automation.
+- **Choreo Connect** – API gateway supporting throttling, security, and monitoring.
+
+---
+
+## Business & Productivity Platforms
+
+- **Monday.com** – Visual collaboration and work management platform.
+- **Qlik Sense** – Business analytics platform for data visualization and reporting.
+
+---
+
+## Infrastructure & Virtualization
+
+- **VMWare** – Enterprise virtualization platform for server workloads.
+- **XenServer** – Hypervisor for hosting virtual machines on enterprise-grade hardware.
+- **Storage Area Networks (SAN)** – High-performance, centralized storage systems.
+- **POD Technologies** – Modular, scalable hardware deployment model.
+- **Firewalls** – Core security layer for network perimeter defense and traffic control.
+
+---
+
+## Application Development & Integration
+
+- **Java (Open Source)** – Primary development language for custom enterprise applications.
+- **LEX** – Proprietary localization framework enabling regional customization.
+- **WebServices** – Standards-based approach to integrating distributed systems.
+- **JMS** – Java messaging middleware for asynchronous communications.
+- **EDI** – Standardized electronic document exchange used in logistics and supply chain.
+- **A2A / B2B** – Architecture patterns enabling internal (A2A) and external (B2B) system integration.
+
+---
+
+## DevOps & SDLC
+
+- **Continuous Delivery Pipeline** – End-to-end automation for build, test, and deploy cycles.
+- **Release Management** – Governance and execution of software deployments.
+- **Revision Control** – Version control and source code change tracking systems.
+- **QA Practices** – Defined quality assurance processes integrated into delivery pipelines.
+
+---
+
+## Monitoring & Ops
+
+- **Custom Monitoring Systems** – In-house platform providing real-time observability of infrastructure and application health.
+
+---
+
+## Enterprise Applications (Custom Built)
+
+- **Virtual Logistics Network** – WMS for managing 120+ depots supporting SUN Micro-Systems SLAs.
+- **Logistics Dashboard** – Customer portal for real-time inventory, order, and receipt visibility with PDF report generation.
+
+---
+
+## Legacy & OS Expertise
+
+- **UNIX** – Deep experience in systems programming, performance tuning, and shell environments.
+- **SUN Micro-Systems** – Supported high-availability systems for mission-critical logistics platforms.
+
+---
+
+## Proprietary / In-House Platforms
+
+- **CJF (CEVA Java Framework)** – Internal Java microservices framework with built-in observability, security, and service contracts.
+- **CAL (Communication Abstraction Layer)** – Integration layer enabling dynamic service orchestration across distributed systems.
+- **SSO Management** – Internal single sign-on solution supporting RBAC and identity federation.
+- **Authorization Service** – Policy-based access control engine managing user permissions.
+- **DocAPI** – Document management API enabling secure data exchange across services.
+- **EMB (Enterprise Message Bus)** – High-throughput message broker powering asynchronous event-based architecture.
+- **MySSO** – CEVA-branded identity gateway supporting OIDC and SAML authentication.
+- **Gainceva, Fabriq, Semarchy, COSY, LBR, Dyson** – Specialized CEVA-built platforms supporting logistics, HR, and operations.
+- **Digital Gemba, Doc Logistics, MyHR, MyCEVA** – Front-line and customer-facing tools integrated with core enterprise systems.
