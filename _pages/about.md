@@ -4,7 +4,7 @@ title: ""
 toc: true
 toc_label: "Key Points"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
-layout: archive_wide
+classes: wide
 ---
 
 {:.site-color}
