@@ -8,17 +8,35 @@ toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 
 {:.site-color}
 # Professional Profile
-## Executive Summary
-Robert Liotta is a global technology leader with over two decades of experience architecting enterprise platforms, driving digital transformation, and embedding AI solutions across logistics and supply chain domains. As SVP Enterprise Architect at CEVA Logistics and former Chief Architect at Kuehne+Nagel, he has consistently aligned IT strategy with business needs, delivering measurable outcomes through modernization, rationalization, and innovation.
+## **Executive Technology Leader | Platform Architect | Digital Supply Chain Innovator**
 
-## Leadership & Strategic Impact
-Robert is known for founding the Americas Architecture Board, establishing DevOps and CI/CD governance models, and reorganizing Enterprise Architecture into scalable functional domains. He mentors architecture teams, drives cross-functional alignment, and serves as a trusted advisor to senior stakeholders.
+I’m Robert Liotta, a global technology executive with 30+ years of experience architecting enterprise platforms, driving digital transformation, and embedding AI across the logistics and supply chain sectors. Currently **SVP, Enterprise Architect at CEVA Logistics** and formerly **Chief Architect at Kuehne+Nagel**, I’ve led multi-year IT strategy roadmaps, steered acquisition integration programs, and delivered cloud-native, AI-enabled, and custom logistics platforms that scale globally and deliver measurable business value.
 
-## Innovation & Technical Excellence
-He has delivered AI-driven products such as an OpenAI Email Assistant for multilingual case handling and an IDP automation platform using ABBYY. Robert supported demand forecasting ML models in APAC and led integration with startup-led chatbot initiatives. He also engineered a high-throughput internal ESB processing 300K+ daily messages and modernized infrastructure with containers and microservices.
+My leadership spans platform engineering, DevOps, integration architecture, and enterprise rationalization—building resilient, scalable platforms with a focus on operational excellence, innovation, and transformation at scale.
 
-## Platform Modernization & Cybersecurity
-Robert has architected converged platforms using CBD, MDM, and CFAST, and migrated legacy systems to secure, cloud-compliant containers. His contributions to CEVA’s cybersecurity roadmap included IAM, IDP remediation, and SSO architecture aligned with Group standards.
+## 🧠 Leadership & Strategy
+
+Robert is a recognized technology leader known for founding the **Americas Architecture Board**, a cross-functional governance body that aligns enterprise initiatives with modern architecture patterns, developer enablement, and strategic business priorities. He has led large-scale **Agile and DevOps transformations**, shifting organizations from waterfall to Agile and establishing **CI/CD pipelines** that drove a **50% productivity gain** in year one. Robert also restructured the Enterprise Architecture function into **scalable, domain-aligned teams**, mentors architects, and acts as a trusted advisor to executive stakeholders across technology and business.
+
+## ⚙️ Engineering & Innovation
+
+Robert has consistently delivered impactful engineering solutions that combine open-source strategy, platform modernization, and AI-driven automation at scale.
+
+- **Open Source & Platform Modernization**  
+  Pioneered the transition to open-source Java-based technologies across North and South America, eliminating vendor lock-in and reducing licensing costs. Architected converged platforms using **CBD**, **MDM**, and **CFAST**, and led the migration of legacy systems into **secure, cloud-compliant containers**.
+
+- **Custom Integration Architectures**  
+  Designed and deployed complex enterprise-grade integrations across A2A, B2B, EDI, WebServices, and JMS. Engineered a **custom high-throughput ESB** processing over **300K messages per day** to support mission-critical workflows.
+
+- **AI & Automation**  
+  Delivered multiple AI-powered solutions, including:
+  - An **OpenAI Email Assistant** for multilingual case handling  
+  - An **IDP automation platform** using ABBYY OCR  
+  - **ML-based demand forecasting** rolled out across Asia Pacific  
+  - **AI chatbot integrations** via partnerships with startup incubators like **ZEBOX**
+
+- **Infrastructure & Cybersecurity Leadership**  
+  Brings deep expertise in **virtualization** (VMWare, XenServer), **Storage Area Networks (SAN)**, **POD infrastructure**, and **distributed systems**. Played a key role in CEVA’s **cybersecurity roadmap**, contributing to **IAM**, **IDP remediation**, and **SSO architecture** aligned with global enterprise standards.
 
 ## Core Strengths
 - Enterprise Architecture Strategy
