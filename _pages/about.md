@@ -80,6 +80,55 @@ Robert has consistently delivered impactful engineering solutions that combine o
 - Served as technical governance lead for MyCEVA and led cross-functional integration with Ground, Rail, Air, Ocean, and Contract Logistics.
 
 {:.site-color}
+# Work History and Education
+
+## Work History
+
+**CEVA Logistics**, Jacksonville, Florida  
+*2016–Present*  
+**Senior Vice President, IT Enterprise Architect**
+
+**Kuehne+Nagel**, Naugatuck, Connecticut  
+*1996–2016*  
+**Chief Architect, NAFTA** (1999–2016)  
+**Director, Internet Services** (1997–1999)  
+**Manager, UNIX Services** (1996–1997)
+
+**Nextel Communications**, White Plains, New York  
+*1994–1995*  
+**UNIX Systems Programmer**
+
+**General DataComm Industries, Inc.**, Middlebury, Connecticut  
+*1988–1994*  
+**Principal Systems Programmer** (1992–1994)
+
+## Education and Training
+
+**Waterbury State Technical College**, Waterbury, Connecticut  
+*1983–1985*  
+**Associates Degree in Computer Science**
+
+**TANGRAM University – AI Training**  
+*2025*  
+Advanced curriculum focused on applied Artificial Intelligence concepts and enterprise use cases.
+
+**Climate Training**  
+*2024*  
+Corporate sustainability and environmental awareness certification.
+
+**Annual Compliance and Ethics Training**  
+*2017–Present*  
+Ongoing training covering corporate compliance, data protection, ethical standards, and regulatory obligations.
+
+**Leadership I** – October 2014  
+Kuehne+Nagel and external partner
+
+**Leadership II** – November 2015  
+*Invite-only, limited to 100 individuals per year*  
+Kuehne+Nagel and external partner
+
+
+{:.site-color}
 # Technology Profile Summary
 
 As an enterprise architect and technology leader, I bring decades of experience driving complex digital transformation, platform modernization, and systems integration across global organizations. My technical portfolio spans cloud-native infrastructure, DevOps automation, full-stack development, enterprise integration, identity and access management, and custom platform engineering. Below is a categorized breakdown of the technologies I’ve deployed and led in production environments.
