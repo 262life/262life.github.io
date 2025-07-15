@@ -5,6 +5,16 @@ search: false
 
 @charset "utf-8";
 
+// Override font size variables before imports
+$type-size-1: 2.0em;   // ~32px
+$type-size-2: 1.6em;   // ~25.6px
+$type-size-3: 1.3em;   // ~20.8px
+$type-size-4: 1.1em;   // ~17.6px
+$type-size-5: 0.9em;   // ~14.4px
+$type-size-6: 0.75em;  // ~12px
+$type-size-7: 0.65em;  // ~10.4px
+$type-size-8: 0.6em;   // ~9.6px
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
