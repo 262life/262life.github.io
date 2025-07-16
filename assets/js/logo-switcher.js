@@ -1,5 +1,4 @@
 document.addEventListener("DOMContentLoaded", () => {
-  // const ref = document.referrer.toLowerCase();
   const params = new URLSearchParams(window.location.search);
   const source = params.get('source');
   const logo = document.getElementById("dynamic-logo");
