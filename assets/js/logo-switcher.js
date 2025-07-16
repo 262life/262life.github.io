@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
   if (!logo) return;
 
   if (source.includes("liotta.us")) {
-    logo.src = "{{ '/assets/images/logo-google.png' | relative_url }}";
+    logo.src = "{{ '/assets/images/logo-liotta.png' | relative_url }}";
   } else {
     logo.src = "{{ '/assets/images/logo.png' | relative_url }}";
   }
