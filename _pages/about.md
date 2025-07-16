@@ -219,6 +219,8 @@ As an enterprise architect and technology leader, I bring decades of experience 
 - **SUN Micro-Systems** – Supported high-availability systems for mission-critical logistics platforms.
 
 ## 🛠️ Proprietary / In-House Platforms and Applications
+
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | **Application / Platform**                       | **Description**                                                                                                           |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | **CJF (CEVA Java Framework)**                    | Internal Java microservices framework with built-in observability, security, and service contracts.                       |
