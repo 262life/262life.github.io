@@ -16,17 +16,17 @@ My leadership spans platform engineering, DevOps, integration architecture, and 
 
 ## 🧠 Leadership & Strategy
 
-Robert is a recognized technology leader known for founding the **Americas Architecture Board**, a cross-functional governance body that aligns enterprise initiatives with modern architecture patterns, developer enablement, and strategic business priorities. He has led large-scale **Agile and DevOps transformations**, shifting organizations from waterfall to Agile and establishing **CI/CD pipelines** that drove a **50% productivity gain** in year one. Robert also restructured the Enterprise Architecture function into **scalable, domain-aligned teams**, mentors architects, and acts as a trusted advisor to executive stakeholders across technology and business.
+Robert is a recognized technology leader known for founding the **Global Architecture Board**, a cross-functional governance body that aligns enterprise initiatives with modern architecture patterns, developer enablement, and strategic business priorities. He has led large-scale **Agile and DevOps transformations**, shifting organizations from waterfall to Agile and establishing **CI/CD pipelines** that drove a **50% productivity gain** in year one. Robert also restructured the Enterprise Architecture function into **scalable, domain-aligned teams**, mentors architects, and acts as a trusted advisor to executive stakeholders across technology and business.
 
 ## ⚙️ Engineering & Innovation
 
 Robert has consistently delivered impactful engineering solutions that combine open-source strategy, platform modernization, and AI-driven automation at scale.
 
 - **Open Source & Platform Modernization**  
-  Pioneered the transition to open-source Java-based technologies across North and South America, eliminating vendor lock-in and reducing licensing costs. Architected converged platforms using **CBD**, **MDM**, and **CFAST**, and led the migration of legacy systems into **secure, cloud-compliant containers**.
+  Pioneered the transition to open-source Java-based technologies across the organization, eliminating vendor lock-in and reducing licensing costs. Architected converged platforms using **CBD**, **MDM**, and **CFAST**, and led the migration of legacy systems into **secure, cloud-compliant containers**.
 
 - **Custom Integration Architectures**  
-  Designed and deployed complex enterprise-grade integrations across A2A, B2B, EDI, WebServices, and JMS. Engineered a **custom high-throughput ESB** processing over **300K messages per day** to support mission-critical workflows.
+  Designed and deployed complex enterprise-grade integrations across A2A, B2B, EDI, WebServices, and JMS. Engineered a **custom high-throughput ESB** processing over **several million messages per day** to support mission-critical workflows.
 
 - **AI & Automation**  
   Delivered multiple AI-powered solutions, including:
@@ -36,9 +36,9 @@ Robert has consistently delivered impactful engineering solutions that combine o
   - **AI chatbot integrations** via partnerships with startup incubators like **ZEBOX**
 
 - **Infrastructure & Cybersecurity Leadership**  
-  Brings deep expertise in **virtualization** (VMWare, XenServer), **Storage Area Networks (SAN)**, **POD infrastructure**, and **distributed systems**. Played a key role in CEVA’s **cybersecurity roadmap**, contributing to **IAM**, **IDP remediation**, and **SSO architecture** aligned with global enterprise standards.
+  Brings deep expertise in **virtualization** (VMWare, XenServer,LXD, Kubernetes), **Storage Area Networks (SAN)**, **POD infrastructure**, and **distributed systems**. Played a key role in CEVA’s **cybersecurity roadmap**, contributing to **IAM**, **IDP remediation**, and **SSO architecture** aligned with global enterprise standards.
 
-## Core Strengths
+## 🧩 Core Strengths
 - Enterprise Architecture Strategy
 - Platform Engineering & Integration
 - AI, ML, and Intelligent Automation
@@ -48,40 +48,40 @@ Robert has consistently delivered impactful engineering solutions that combine o
 - Global Team Leadership & Stakeholder Management
 
 {:.site-color}
-## 🏁 Accomplishment Journal – Robert Liotta
+## Accomplishment Journal
 
 Robert Liotta has built a distinguished career by transforming enterprise IT landscapes with scalable, secure, and strategic solutions. He blends architecture leadership with a pragmatic approach to execution — consistently delivering measurable outcomes.
 
-### Architected Bold Ideas into Repeatable Solutions
+### 🏁 Architected Bold Ideas into Repeatable Solutions
 
 - Built CEVA’s **containerized architecture strategy**, adopted globally across CL, A&O, Ground, and Rail.
 - Delivered the **first release of the converged A&O solution**, with CFAST/CBD as its core framework.
 - Consolidated DevOps, testing, and integration toolsets into a standard for CICD, GitOps, and SAST/DAST.
 
-### Measured Innovation by Cultural Influence
+### 🏁 Measured Innovation by Cultural Influence
 
 - Promoted a culture of innovation through **AI-ready, cloud-agnostic tooling**.
 - Created a **weekly architecture committee** that aligned business and platform teams on roadmap priorities.
 - Balanced central governance with **local Agile autonomy** by enabling team-driven execution under shared guardrails.
 
-### AI-Driven Transformation
+### 🏁AI-Driven Transformation
 
 - Led **GenAI migrations** for MyHR and C-VIEW to group-level solutions in 2024.
 - Redefined ingestion tooling for CDP to enable **cloud-agnostic AI architectures**.
 - Conducted a 3-month **GCP cloud readiness study**, resulting in containerization standards adopted enterprise-wide.
 
-### Delivered Practical Transformation in Enterprise IT
+### 🏁 Delivered Practical Transformation in Enterprise IT
 
 - Completed a **review of 300+ technologies**, identifying 20% redundancy and creating a 3-year rationalization roadmap.
 - Redesigned and deployed the **MDM framework** adopted by CVIEW, A&O, and GEFCO SAP integrations.
 - Led microservices migration for **MyCEVA and WMS platforms**, enabling modular backend evolution.
 
-### Bridged Organizational Gaps
+### 🏁 Bridged Organizational Gaps
 
 - Played a key role in **CEVA–Bolloré IT integration**, aligning data platforms, portals, and streaming strategies.
 - Embedded EA into new CoEs during 2024 management transitions, ensuring architectural alignment persisted.
 
-### Focused on Impact, Not Just Delivery
+### 🏁 Focused on Impact, Not Just Delivery
 
 - Delivered $1.2M in annual savings via tooling and platform rationalization.
 - Achieved 100% delivery under budget for OPEX and CAPEX across 2021, 2022, and 2024.
