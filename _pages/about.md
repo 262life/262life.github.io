@@ -3,7 +3,7 @@ permalink: /about/
 title: ""
 toc: true
 toc_label: "Key Points"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+toc_icon: "heart-pulse"  # corresponding Font Awesome icon name (without fa prefix)
 ---
 
 {:.site-color}
@@ -70,7 +70,7 @@ Robert Liotta has built a distinguished career by transforming enterprise IT lan
 - Redefined ingestion tooling for CDP to enable **cloud-agnostic AI architectures**.
 - Conducted a 3-month **GCP cloud readiness study**, resulting in containerization standards adopted enterprise-wide.
 
-### 🏁 Delivered Practical Transformation in Enterprise IT
+### Delivered Practical Transformation in Enterprise IT
 
 - Completed a **review of 300+ technologies**, identifying 20% redundancy and creating a 3-year rationalization roadmap.
 - Redesigned and deployed the **MDM framework** adopted by CVIEW, A&O, and GEFCO SAP integrations.
