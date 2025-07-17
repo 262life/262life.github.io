@@ -229,33 +229,79 @@ As an enterprise architect and technology leader, I bring decades of experience 
 - **SUN Micro-Systems** – Supported high-availability systems for mission-critical logistics platforms.
 
 ## 🛠️ Proprietary / In-House Platforms and Applications
+- **CJF (CEVA Java Framework)**  
+  Internal Java microservices framework with built-in observability, security, and service contracts.
 
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| **Application / Platform**                       | **Description**                                                                                                           |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| **CJF (CEVA Java Framework)**                    | Internal Java microservices framework with built-in observability, security, and service contracts.                       |
-| **CAL (Communication Abstraction Layer)**        | Integration layer enabling dynamic service orchestration across distributed systems.                                      |
-| **SSO Management**                               | Internal single sign-on solution supporting RBAC and identity federation across CEVA applications.                        |
-| **Authorization Service**                        | Policy-based access control engine managing user permissions and entitlements.                                            |
-| **DocAPI**                                       | Document management API enabling secure data exchange and document lifecycle tracking.                                    |
-| **EMB (Enterprise Message Bus)**                 | High-throughput message broker powering asynchronous, event-based architecture.                                           |
-| **MySSO**                                        | CEVA-branded identity gateway supporting both OIDC and SAML authentication protocols.                                     |
-| **Gainceva, Fabriq, Semarchy, COSY, LBR, Dyson** | Specialized CEVA-built platforms supporting logistics operations, HR management, and enterprise workflows.                |
-| **Digital Gemba, Doc Logistics, MyHR, MyCEVA**   | Front-line and customer-facing tools integrated with CEVA’s core systems for operational visibility and engagement.       |
-| **GPSTPS**                                       | CEVA’s custom global platform for shipment tracking and planning; scaled to multiple environments with Tibco integration. |
-| **IFL (Integrated Factory Logistics)**           | CEVA-specific logistics application for web and mobile, migrated to Kubernetes and integrated with CJF.                   |
-| **Doctor Kaizen (Dr. Kaizen)**                   | Lean operations application supporting continuous improvement; deployed on web/mobile with multi-language search.         |
-| **FMCSP / FMCSP+**                               | CEVA freight management and operations platform with dashboards, workflow upgrades, and navigator modules.                |
-| **GICM**                                         | CEVA internal analytics or governance platform supporting real-time performance visibility and compliance.                |
-| **CLDLP / CLMDT**                                | Integrated logistics data platform consolidating BICL, KPIs, and performance metrics.                                     |
-| **BICL**                                         | Business intelligence component of CLMDT; provides operational KPIs and dashboard analytics.                              |
-| **Digital Library (Digilib)**                    | Metadata-driven digital repository with API integration, replacing legacy email-based workflows.                          |
-| **UCM (Unified Case Management)**                | Platform for managing change requests and operational issues; continuously enhanced through CRs.                          |
-| **Omni Portal**                                  | CEVA-specific unified access portal built for streamlined logistics and service orchestration.                            |
-| **Cold Chain**                                   | Custom-built application for tracking temperature-sensitive logistics and compliance.                                     |
-| **GetPaid / Publican**                           | Proprietary finance platform for global receivables, including CCL country file processing.                               |
-| **Performance Bridge**                           | Operations performance platform, later integrated into CLMDT for broader logistics KPIs.                                  |
-| **CSP / CSP+**                                   | Internal application supporting billing, NRA filing, milestone tracking, and container management.                        |
-| **Invoice Digitization (Medius Gateway)**        | CEVA digitized invoicing system integrated with Medius and WSO2 for secure processing.                                    |
-| **WMS Portal / WMS Free Spacer**                 | Warehouse management web interfaces migrated to newer CJF versions and expanded features.                                 |
+- **CAL (Communication Abstraction Layer)**  
+  Integration layer enabling dynamic service orchestration across distributed systems.
+
+- **SSO Management**  
+  Internal single sign-on solution supporting RBAC and identity federation across CEVA applications.
+
+- **Authorization Service**  
+  Policy-based access control engine managing user permissions and entitlements.
+
+- **DocAPI**  
+  Document management API enabling secure data exchange and document lifecycle tracking.
+
+- **EMB (Enterprise Message Bus)**  
+  High-throughput message broker powering asynchronous, event-based architecture.
+
+- **MySSO**  
+  CEVA-branded identity gateway supporting both OIDC and SAML authentication protocols.
+
+- **Gainceva, Fabriq, Semarchy, COSY, LBR, Dyson**  
+  Specialized CEVA-built platforms supporting logistics operations, HR management, and enterprise workflows.
+
+- **Digital Gemba, Doc Logistics, MyHR, MyCEVA**  
+  Front-line and customer-facing tools integrated with CEVA’s core systems for operational visibility and engagement.
+
+- **GPSTPS**  
+  CEVA’s custom global platform for shipment tracking and planning; scaled to multiple environments with Tibco integration.
+
+- **IFL (Integrated Factory Logistics)**  
+  CEVA-specific logistics application for web and mobile, migrated to Kubernetes and integrated with CJF.
+
+- **Doctor Kaizen (Dr. Kaizen)**  
+  Lean operations application supporting continuous improvement; deployed on web/mobile with multi-language search.
+
+- **FMCSP / FMCSP+**  
+  CEVA freight management and operations platform with dashboards, workflow upgrades, and navigator modules.
+
+- **GICM**  
+  CEVA internal analytics or governance platform supporting real-time performance visibility and compliance.
+
+- **CLDLP / CLMDT**  
+  Integrated logistics data platform consolidating BICL, KPIs, and performance metrics.
+
+- **BICL**  
+  Business intelligence component of CLMDT; provides operational KPIs and dashboard analytics.
+
+- **Digital Library (Digilib)**  
+  Metadata-driven digital repository with API integration, replacing legacy email-based workflows.
+
+- **UCM (Unified Case Management)**  
+  Platform for managing change requests and operational issues; continuously enhanced through CRs.
+
+- **Omni Portal**  
+  CEVA-specific unified access portal built for streamlined logistics and service orchestration.
+
+- **Cold Chain**  
+  Custom-built application for tracking temperature-sensitive logistics and compliance.
+
+- **GetPaid / Publican**  
+  Proprietary finance platform for global receivables, including CCL country file processing.
+
+- **Performance Bridge**  
+  Operations performance platform, later integrated into CLMDT for broader logistics KPIs.
+
+- **CSP / CSP+**  
+  Internal application supporting billing, NRA filing, milestone tracking, and container management.
+
+- **Invoice Digitization (Medius Gateway)**  
+  CEVA digitized invoicing system integrated with Medius and WSO2 for secure processing.
+
+- **WMS Portal / WMS Free Spacer**  
+  Warehouse management web interfaces migrated to newer CJF versions and expanded features.
+
 
