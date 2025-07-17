@@ -48,36 +48,46 @@ Robert has consistently delivered impactful engineering solutions that combine o
 - Global Team Leadership & Stakeholder Management
 
 {:.site-color}
-# Accomplishment Journal 
-## Architecture & Integration
-- Directed a global enterprise architecture initiative analyzing over 300 technologies to drive rationalized roadmaps for CL, A&O, and Corporate systems.
-- Led the architecture and deployment of a converged A&O solution using MDM and CFAST/CBD frameworks, enabling future integration with CDP.
-- Built governance models for DevOps and CICD platforms across global teams while supporting local delivery autonomy.
+## 🏁 Accomplishment Journal – Robert Liotta
 
-## AI, GenAI, & Digital Innovation
-- Delivered an AI Email Assistant using OpenAI LLM for Salesforce case handling — automated categorization and multilingual response generation.
-- Enabled delivery of IDP PoC using ABBYY for scanned document automation in A&O operations.
-- Supported a warehouse forecasting PoC using Google Cloud ML to optimize workforce planning across APAC.
-- Engaged in PoC work with Zebox startup on knowledge chatbot benchmarking Microsoft Copilot Studio.
+Robert Liotta has built a distinguished career by transforming enterprise IT landscapes with scalable, secure, and strategic solutions. He blends architecture leadership with a pragmatic approach to execution — consistently delivering measurable outcomes.
 
-## Platform & DevOps Engineering
-- Led transformation from waterfall to agile with CI/CD, boosting development productivity by 50% in year one.
-- Implemented Docker/Kubernetes-based container platform for scalable, cost-effective infrastructure.
+### Architected Bold Ideas into Repeatable Solutions
 
-## Cost Optimization & Rationalization
-- Achieved below-budget delivery across multiple years by consolidating tools, delaying low-impact projects, and enforcing IT spend governance.
-- Led rationalization of DevOps tools and integration frameworks to reduce duplicated systems by 20%.
-- Designed centralized version control and testing platforms adopted across all WebApps.
+- Built CEVA’s **containerized architecture strategy**, adopted globally across CL, A&O, Ground, and Rail.
+- Delivered the **first release of the converged A&O solution**, with CFAST/CBD as its core framework.
+- Consolidated DevOps, testing, and integration toolsets into a standard for CICD, GitOps, and SAST/DAST.
 
-## Cybersecurity & Governance
-- Supported CEVA's cybersecurity roadmap, including IAM, MDM, and IDP remediation projects.
-- Migrated multiple legacy platforms to cloud-compliant, secure containers and hardened their interfaces for external use.
-- Built security-aligned SSO topology for BLX and Colis Prive while adhering to CEVA and Group standards.
+### Measured Innovation by Cultural Influence
 
-## Leadership & Strategy
-- Founded the Americas Architecture Board to mentor teams and ensure platform consistency across regions.
-- Reorganized EA into functional and technical domains with added leadership coverage per COE.
-- Served as technical governance lead for MyCEVA and led cross-functional integration with Ground, Rail, Air, Ocean, and Contract Logistics.
+- Promoted a culture of innovation through **AI-ready, cloud-agnostic tooling**.
+- Created a **weekly architecture committee** that aligned business and platform teams on roadmap priorities.
+- Balanced central governance with **local Agile autonomy** by enabling team-driven execution under shared guardrails.
+
+### AI-Driven Transformation
+
+- Led **GenAI migrations** for MyHR and C-VIEW to group-level solutions in 2024.
+- Redefined ingestion tooling for CDP to enable **cloud-agnostic AI architectures**.
+- Conducted a 3-month **GCP cloud readiness study**, resulting in containerization standards adopted enterprise-wide.
+
+### Delivered Practical Transformation in Enterprise IT
+
+- Completed a **review of 300+ technologies**, identifying 20% redundancy and creating a 3-year rationalization roadmap.
+- Redesigned and deployed the **MDM framework** adopted by CVIEW, A&O, and GEFCO SAP integrations.
+- Led microservices migration for **MyCEVA and WMS platforms**, enabling modular backend evolution.
+
+### Bridged Organizational Gaps
+
+- Played a key role in **CEVA–Bolloré IT integration**, aligning data platforms, portals, and streaming strategies.
+- Embedded EA into new CoEs during 2024 management transitions, ensuring architectural alignment persisted.
+
+### Focused on Impact, Not Just Delivery
+
+- Delivered $1.2M in annual savings via tooling and platform rationalization.
+- Achieved 100% delivery under budget for OPEX and CAPEX across 2021, 2022, and 2024.
+- Reduced incident resolution time by 35% and launched production-ready **persistent block storage** for container workloads.
+
+> _“Architecting the future, one reusable solution at a time.”_
 
 {:.site-color}
 # Work History and Education
