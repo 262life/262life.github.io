@@ -48,23 +48,23 @@ Robert has consistently delivered impactful engineering solutions that combine o
 - Global Team Leadership & Stakeholder Management
 
 {:.site-color}
-## Accomplishment Journal
+## 🏁 Accomplishment Journal
 
 Robert Liotta has built a distinguished career by transforming enterprise IT landscapes with scalable, secure, and strategic solutions. He blends architecture leadership with a pragmatic approach to execution — consistently delivering measurable outcomes.
 
-### 🏁 Architected Bold Ideas into Repeatable Solutions
+### Architected Bold Ideas into Repeatable Solutions
 
 - Built CEVA’s **containerized architecture strategy**, adopted globally across CL, A&O, Ground, and Rail.
 - Delivered the **first release of the converged A&O solution**, with CFAST/CBD as its core framework.
 - Consolidated DevOps, testing, and integration toolsets into a standard for CICD, GitOps, and SAST/DAST.
 
-### 🏁 Measured Innovation by Cultural Influence
+### Measured Innovation by Cultural Influence
 
 - Promoted a culture of innovation through **AI-ready, cloud-agnostic tooling**.
 - Created a **weekly architecture committee** that aligned business and platform teams on roadmap priorities.
 - Balanced central governance with **local Agile autonomy** by enabling team-driven execution under shared guardrails.
 
-### 🏁AI-Driven Transformation
+### AI-Driven Transformation
 
 - Led **GenAI migrations** for MyHR and C-VIEW to group-level solutions in 2024.
 - Redefined ingestion tooling for CDP to enable **cloud-agnostic AI architectures**.
@@ -76,12 +76,12 @@ Robert Liotta has built a distinguished career by transforming enterprise IT lan
 - Redesigned and deployed the **MDM framework** adopted by CVIEW, A&O, and GEFCO SAP integrations.
 - Led microservices migration for **MyCEVA and WMS platforms**, enabling modular backend evolution.
 
-### 🏁 Bridged Organizational Gaps
+### Bridged Organizational Gaps
 
 - Played a key role in **CEVA–Bolloré IT integration**, aligning data platforms, portals, and streaming strategies.
 - Embedded EA into new CoEs during 2024 management transitions, ensuring architectural alignment persisted.
 
-### 🏁 Focused on Impact, Not Just Delivery
+### Focused on Impact, Not Just Delivery
 
 - Delivered $1.2M in annual savings via tooling and platform rationalization.
 - Achieved 100% delivery under budget for OPEX and CAPEX across 2021, 2022, and 2024.
@@ -228,7 +228,8 @@ As an enterprise architect and technology leader, I bring decades of experience 
 - **UNIX** – Deep experience in systems programming, performance tuning, and shell environments.
 - **SUN Micro-Systems** – Supported high-availability systems for mission-critical logistics platforms.
 
-## 🛠️ Proprietary / In-House Platforms and Applications
+{:.site-color}
+# 🛠️ Proprietary / In-House Platforms and Applications
 - **CJF (CEVA Java Framework)**  
   Internal Java microservices framework with built-in observability, security, and service contracts.
 
