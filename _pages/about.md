@@ -59,18 +59,18 @@ Robert Liotta has built a distinguished career by transforming enterprise IT lan
 - Consolidated DevOps, testing, and integration toolsets into a standard for CICD, GitOps, and SAST/DAST.
 
 #### Metrics
-|------------------------------------------|---------------------------------------|-----------------------------------------------------------------------------|
-| **Metric**                                | **Value**                             | **Impact**                                                                 |
-|------------------------------------------|---------------------------------------|-----------------------------------------------------------------------------|
-| Number of Containers in K8s Clusters     | 21,000                                | Reflects massive scale of containerized deployment across environments     |
-| GitLab Projects in PROD                  | 12,000                                | Shows wide CI/CD adoption across business units                            |
-| Artifactory Artifacts in PROD            | 802,000                               | Indicates heavy software distribution and version control usage            |
-| Jenkins Worker Node Storage              | 2 TB                                  | High CI workload; demonstrates extensive build/test automation             |
-| Jenkins Jobs Run in Q2                   | 25,300                                | High operational velocity in software delivery                             |
-| CJF / CAL Services Containerized         | All core framework services           | Full platform modernization; shift to Dockerized delivery                  |
-| Upgrade Time Reduction                   | 2–3 weeks → 4–8 hours                 | Major efficiency gain in deployment and framework management               |
-| Namespace-Based Deployments              | Each business team owns its namespace | Empowers decentralized, agile DevOps across verticals                      |
-| Business Units Covered                   | CL, A&O, Ground, Rail                 | Global adoption across CEVA’s logistics operations                         |
+
+| **Metric**                           | **Value**                             | **Impact**                                                   |
+| ------------------------------------ | ------------------------------------- | ------------------------------------------------------------ |
+| Number of Containers in K8s Clusters | 21,000                                | Reflects massive scale of containerized deployment across environments |
+| GitLab Projects in PROD              | 12,000                                | Shows wide CI/CD adoption across business units              |
+| Artifactory Artifacts in PROD        | 802,000                               | Indicates heavy software distribution and version control usage |
+| Jenkins Worker Node Storage          | 2 TB                                  | High CI workload; demonstrates extensive build/test automation |
+| Jenkins Jobs Run in Q2               | 25,300                                | High operational velocity in software delivery               |
+| CJF / CAL Services Containerized     | All core framework services           | Full platform modernization; shift to Dockerized delivery    |
+| Upgrade Time Reduction               | 2–3 weeks → 4–8 hours                 | Major efficiency gain in deployment and framework management |
+| Namespace-Based Deployments          | Each business team owns its namespace | Empowers decentralized, agile DevOps across verticals        |
+| Business Units Covered               | CL, A&O, Ground, Rail                 | Global adoption across CEVA’s logistics operations           |
 
 
 ### Measured Innovation by Cultural Influence
@@ -319,5 +319,4 @@ As an enterprise architect and technology leader, I bring decades of experience 
 
 - **WMS Portal / WMS Free Spacer**  
   Warehouse management web interfaces migrated to newer CJF versions and expanded features.
-
 
