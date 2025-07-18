@@ -167,6 +167,15 @@ As an enterprise architect and technology leader, I bring decades of experience 
 - **Rook-CephFS** – Cloud-native storage orchestration using Ceph integrated with Kubernetes.
 - **Ceph** – Distributed, software-defined storage system supporting block, file, and object storage.
 
+#### 📦 CEVA Kubernetes Cluster Resource Metrics (Q2 2025)
+
+| **Resource**     | **Value**         | **Notes**                                                                 |
+|------------------|-------------------|--------------------------------------------------------------------------|
+| **vCPU**         | 8,240             | Massive compute availability for container workloads                     |
+| **RAM**          | 16.3 TB           | High memory capacity for large-scale service execution                   |
+| **Disk Storage** | 1.25 PB           | Petabyte-scale storage—supports build artifacts, logs, data persistence  |
+
+
 ## CI/CD & DevOps Tooling
 - **Jenkins** – Automation server for building and deploying CI/CD pipelines.
 - **GitLab** – DevOps platform combining source control with integrated pipelines and issue tracking.
