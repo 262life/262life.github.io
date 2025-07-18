@@ -1,10 +1,10 @@
 document.addEventListener("DOMContentLoaded", () => {
   const params = new URLSearchParams(window.location.search);
-  const source = params.get('source');
+  const source = params.get('s');
   const logo = document.getElementById("dynamic-logo");
   if (!logo) return;
 
-  if (source.includes("liotta.us")) {
+  if (source.includes("liotta")) {
     logo.src = "/assets/images/logo-liotta.png";
   }
 });
