@@ -14,11 +14,11 @@ main:
 sidebar-sample:
   - title: ""
     children:
-      - title: "**Professional Profile**"
+      - title: "Professional Profile"
         url: /about/#professional-profile
-      - title: "**Work History and Education**"
+      - title: "Work History and Education"
         url: /about/#work-history-and-education
-      - title: "**Technology Profile Summary**"
+      - title: "Technology Profile Summary"
         url: /about/#technology-profile-summary
-      - title: "**Proprietary / In-House Platforms and Applications**"
+      - title: "Proprietary / In-House Platforms and Applications"
         url: about/#%EF%B8%8F-proprietary--in-house-platforms-and-applications
