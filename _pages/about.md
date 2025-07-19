@@ -2,7 +2,7 @@
 permalink: /about/
 title: ""
 toc: true
-toc_sticky: false
+toc_sticky: true
 toc_label: "Key Points"
 toc_icon: "heart-pulse"  # corresponding Font Awesome icon name (without fa prefix)
 sidebar:
