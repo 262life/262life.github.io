@@ -12,7 +12,7 @@ main:
 
 
 sidebar-sample:
-  - title: "About"
+  - title: ""
     children:
       - title: "Professional Profile"
         url: /about/#professional-profile
@@ -22,11 +22,3 @@ sidebar-sample:
         url: /about/#technology-profile-summary
       - title: "Proprietarty In-House Platforms and Applications"
         url: about/#%EF%B8%8F-proprietary--in-house-platforms-and-applications
-  - title: "Projects"
-    url: /projects/
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/

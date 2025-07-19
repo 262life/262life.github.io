@@ -1,11 +1,11 @@
 ---
 permalink: /about/
 title: ""
-toc: true
+toc: false
 toc_label: "Key Points"
 toc_icon: "heart-pulse"  # corresponding Font Awesome icon name (without fa prefix)
 sidebar:
-  title: "Menu"
+  title: "Shortcuts"
   nav: sidebar-sample
 ---
 
