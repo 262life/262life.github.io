@@ -4,6 +4,9 @@ title: ""
 toc: true
 toc_label: "Key Points"
 toc_icon: "heart-pulse"  # corresponding Font Awesome icon name (without fa prefix)
+sidebar:
+  title: "Menu"
+  nav: sidebar-sample
 ---
 
 {:.site-color}
@@ -47,7 +50,6 @@ Robert has consistently delivered impactful engineering solutions that combine o
 - Cost Optimization & Tool Rationalization
 - Global Team Leadership & Stakeholder Management
 
-{:.site-color}
 ## 🏁 Accomplishment Journal
 
 Robert Liotta has built a distinguished career by transforming enterprise IT landscapes with scalable, secure, and strategic solutions. He blends architecture leadership with a pragmatic approach to execution — consistently delivering measurable outcomes.
