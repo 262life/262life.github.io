@@ -5,8 +5,8 @@ toc: true
 toc_sticky: true
 toc_label: "Key Points"
 toc_icon: "heart-pulse"  # corresponding Font Awesome icon name (without fa prefix)
-toc_min_header: 1
-toc_max_header: 2
+h_min: 1
+h_max: 2
 #sidebar:
 #  title: "Shortcuts"
 #  nav: sidebar-sample
