@@ -44,9 +44,9 @@ Let’s clear the fog.
 
 Yes, AI will change jobs. But it **won’t eliminate the need for people** — it eliminates the busywork that burns them out:
 
-- Rewriting the same update five times
-- Manually formatting decks
-- Digging through a messy inbox
+- Rewriting the same update five times  
+- Manually formatting decks  
+- Digging through a messy inbox  
 
 > ⚠️ The real threat isn’t AI taking your job.  
 > It’s someone **with AI** doing it better, faster, and smarter.
@@ -65,25 +65,22 @@ We didn’t wait for a top-down rollout. We **embedded lightweight cultural trig
 | **Prompt Libraries** | Internal guides for using AI across roles |
 | **Safe Space to Fail** | It's okay to try, iterate, and improve — not everything needs to be perfect |
 
-![Infographic of AI practices](https://via.placeholder.com/800x300?text=Infographic:+AI+Culture+Practices)
+![Infographic of AI practices](https://source.unsplash.com/800x300/?infographic,icons)
 
 ---
 
 ## 📍 Real AI-First Moments at CEVA
 
-Here’s where the theory becomes real.
+These aren’t hypothetical. They’re happening now.
 
 ---
 
 ### 🎓 1. AI Training & Leadership Readiness
 
 - Managers across France participated in **Tangram AI training**, including 12+ hours of pre-work and a 5-day hands-on workshop.
-
 - Focus: real skills, not academic lectures.
 
-  ![Team attending AI workshop](https://via.placeholder.com/600x300?text=AI+Training+Workshop)
-
-![Team attending AI workshop](https://via.placeholder.com/600x300?text=AI+Training+Workshop)
+![Team attending AI workshop](https://source.unsplash.com/600x300/?training,team)
 
 ---
 
@@ -92,7 +89,7 @@ Here’s where the theory becomes real.
 - Used AI for **code analysis**, **impact assessments**, and **automated documentation**.
 - Moving toward **automation-first development pipelines**.
 
-![Developer using AI assistant like Copilot](https://via.placeholder.com/600x300?text=Developer+Using+Copilot)
+![Developer using AI assistant like Copilot](https://source.unsplash.com/600x300/?developer,AI)
 
 ---
 
@@ -101,7 +98,7 @@ Here’s where the theory becomes real.
 - Leveraged LLMs to help write and refine team OKRs.
 - Result: faster creation, better alignment, and more clarity.
 
-![Prompt to goal refinement](https://via.placeholder.com/600x300?text=Prompt+to+Goal+Refinement)
+![Prompt to goal refinement](https://source.unsplash.com/600x300/?goals,planning)
 
 ---
 
@@ -112,7 +109,7 @@ Here’s where the theory becomes real.
   - Summarize threads  
   - Generate executive PowerPoints
 
-![AI summarizing content to slides](https://via.placeholder.com/600x300?text=AI+to+PowerPoint)
+![AI summarizing content to slides](https://source.unsplash.com/600x300/?presentation,AI)
 
 ---
 
@@ -121,7 +118,7 @@ Here’s where the theory becomes real.
 - AI analyzes Kubernetes usage and cost patterns.
 - Enables **chargebacks** and smarter cost controls per app.
 
-![FinOps dashboard with AI insights](https://via.placeholder.com/600x300?text=AI+FinOps+Dashboard)
+![FinOps dashboard with AI insights](https://source.unsplash.com/600x300/?finance,dashboard)
 
 ---
 
@@ -130,7 +127,7 @@ Here’s where the theory becomes real.
 - Used AI to evaluate architecture trade-offs (e.g., canonical vs unstructured models).
 - Synthesized scattered info (social media, PDFs, websites) for strategy decks.
 
-![Human and AI working on research](https://via.placeholder.com/600x300?text=Human+%2B+AI+Research+Pipeline)
+![Human and AI working on research](https://source.unsplash.com/600x300/?research,data)
 
 ---
 
