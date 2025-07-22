@@ -59,7 +59,7 @@ AI is like a power tool in your hand. It doesn’t replace the craftsperson — 
 - **Human-in-the-loop** — Needs prompts, review, and validation  
 - **Limited scope** — Can’t adapt outside their domain  
 
-## 🔥 How We’re Making AI Part of Our Culture
+## 🔥 How We Made AI Part of Our Culture
 
 What made this real for us wasn’t a memo. It was action — repeated, simple, human action.
 
