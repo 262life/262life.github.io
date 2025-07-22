@@ -61,7 +61,7 @@ AI is like a power tool in your hand. It doesn’t replace the craftsperson — 
 
 ## 🔥 How We’re Making AI Part of Our Culture
 
-<img src="../assets/images/ai-first/image.png" style="float: left; margin-right: 10px; width: 500px;" />
+<img src="../assets/images/ai-first/image.png" style="float: left; margin-right: 10px; width: 300px;" />
 
 What made this real for us wasn’t a memo. It was action — repeated, simple, human action.
 
