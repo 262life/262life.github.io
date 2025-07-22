@@ -15,7 +15,7 @@ Last Tuesday, one of our developers used AI to write API documentation. He shave
 # AI-First at Work: How We’re Embedding AI into Everyday Operations in Our Data & Digital Teams  
 *By Robert Liotta and AI*
 
-![](/assets/images/ai-first/4F615500-972A-4E7B-A5BF-05A46952C41C_1_105_c.jpeg)
+![](../assets/images/ai-first/4F615500-972A-4E7B-A5BF-05A46952C41C_1_105_c.jpeg)
 
 ## 🚀 This Isn’t a Thought Experiment — It’s Our Daily Reality
 
@@ -61,13 +61,13 @@ AI is like a power tool in your hand. It doesn’t replace the craftsperson — 
 
 ## 🔥 How We’re Making AI Part of Our Culture
 
+<img src="../assets/images/ai-first/image.png" style="float: left; margin-right: 10px; width: 500px;" />
+
 What made this real for us wasn’t a memo. It was action — repeated, simple, human action.
 
 I didn’t just endorse AI — I used it, and I shared examples in team meetings. **That made it safe for others to try.**  More importantly, we built a space where trying something new (and maybe failing) wasn’t just accepted — it was encouraged.
 
 Every time someone said, “Hey, I used AI for this and it saved me an hour,” they shared it. That’s how culture shifts — not with banners, but with courage.
-
-![](/assets/images/ai-first/image.png)
 
 ## 📍 Real Stories from Inside Our Team
 
