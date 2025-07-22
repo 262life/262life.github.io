@@ -61,9 +61,9 @@ AI is like a power tool in your hand. It doesn’t replace the craftsperson — 
 
 ## 🔥 How We’re Making AI Part of Our Culture
 
-<img src="../assets/images/ai-first/image.png" style="float: left; margin-right: 10px; width: 300px;" />
-
 What made this real for us wasn’t a memo. It was action — repeated, simple, human action.
+
+<img src="../assets/images/ai-first/image.png" style="float: left; margin-right: 10px; width: 300px;" />
 
 I didn’t just endorse AI — I used it, and I shared examples in team meetings. **That made it safe for others to try.**  More importantly, we built a space where trying something new (and maybe failing) wasn’t just accepted — it was encouraged.
 
@@ -77,34 +77,40 @@ These aren’t initiatives. They’re habits. This isn’t theory — it’s how
 
 CEVA sent me through Tangram AI training — not just slides and a certificate, but 12+ hours of pre-work and five intense days of hands-on labs. I came back energized, not just informed. Because when leaders feel it, they spread it.  **What you cannot see in the photo is the team was operating trucks, managing paperwork,  and moving containers from trucks to ships all with our hands!**
 
-![](/assets/images/ai-first/image%202.png)
+<img src="../assets/images/ai-first/image%202.png" style="float: right; margin-left: 10px; width: 300px;" />
+
 ### 💻 Coding with a Second Brain
 
 In development, AI became a co-pilot — helping us write code, document changes, and build smarter.  I mentioned an example at the beginning of this article.
 
-![](/assets/images/ai-first/image%203.png)
+<img src="../assets/images/ai-first/image%203.png" style="float: right; margin-left: 10px; width: 300px;" />
+
 ### 🗂️ Rethinking Goals, Together
 
 When it came time to write team goals, we didn’t start from scratch. We used large language models to draft, edit, and refine. The result was clear, collaborative, and aligned — not just approved.
 
-![](/assets/images/ai-first/image%204.png)
+<img src="../assets/images/ai-first/image%204.png" style="float: right; margin-left: 10px; width: 300px;" />
+
 ### 🧠 AI in the Background — Quietly Powerful
 
 In operations, AI became an invisible helper. It pulled insights from emails, created executive summaries, even opened ServiceNow tickets. Hours saved. Clarity gained.  Here’s and example prompt you can try:
 
 *“Need a brilliant presentation about how to use ServiceNOW as not only a support tool but also a knowledgebase.  This should include cool meaningful pictures and artwork including an insprational Video at the end!”*
 
-![](/assets/images/ai-first/image%208.png)
+<img src="../assets/images/ai-first/image%208.png" style="float: right; margin-left: 10px; width: 300px;" />
+
 ### 💰 Smarter FinOps
 
 We use AI to break down Kubernetes costs, assist with chargebacks, and guide teams toward better architecture. It’s like having a CFO and cloud engineer in your pocket — running 24/7.
 
-![](/assets/images/ai-first/image%205.png)
+<img src="../assets/images/ai-first/image%205.png" style="float: right; margin-left: 10px; width: 300px;" />
+
 ### 🔬 Decision-Making on Another Level
 
 When weighing canonical vs. unstructured data models, AI didn’t make the decision — but it surfaced the insights that mattered. It filtered articles, decks, and discussions — turning noise into clarity.
+<img src="../assets/images/ai-first/image%207.png" style="float: right; margin-left: 10px; width: 300px;" />
 
-![](/assets/images/ai-first/image%207.png)
+
 
 ## ❗ The Truth: AI Isn’t Coming for Your Job
 
