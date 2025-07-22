@@ -1,5 +1,6 @@
 ---
 title:  "AI-First at Work: How We’re Embedding AI into Everyday Operations in Our Data & Digital Teams"
+permalink: ai
 excerpt_separator: <!--more-->
 categories:
   - innovation
