@@ -139,5 +139,5 @@ This isn’t humans vs. AI. It’s **humans with AI** — thinking bigger, worki
 
 Next time you're in a team meeting, just ask this one question:
 
-> In your next team meeting, try asking: 'What did you rethink with AI this week?' It won’t just change the conversation — it might change your culture.
+> In your next team meeting, try asking: ***'What did you rethink with AI this week?'*** It won’t just change the conversation — it might change your culture.
 
