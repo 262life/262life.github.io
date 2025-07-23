@@ -95,7 +95,7 @@ When it came time to write team goals, we didn’t start from scratch. We used l
 
 In operations, AI became an invisible helper. It pulled insights from emails, created executive summaries, even opened ServiceNow tickets. Hours saved. Clarity gained.  Here’s and example prompt you can try:
 
-*“Need a brilliant presentation about how to use ServiceNOW as not only a support tool but also a knowledgebase.  This should include cool meaningful pictures and artwork including an insprational Video at the end!”*
+*“Need a brilliant presentation about how to use ServiceNOW as not only a support tool but also a knowledgebase.  This should include cool meaningful pictures and artwork including an inspirational Video at the end!”*
 
 <img src="../assets/images/ai-first/image%208.png" style="float: right; margin-left: 10px; width: 300px;" />
 
