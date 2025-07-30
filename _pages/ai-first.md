@@ -15,7 +15,6 @@ Last Tuesday, one of our developers used AI to write API documentation. He shave
 # AI-First at Work: How We’re Embedding AI into Everyday Operations in Our Data & Digital Teams  
 *By Robert Liotta and AI*
 
-![](../assets/images/ai-first/4F615500-972A-4E7B-A5BF-05A46952C41C_1_105_c.jpeg)
 ![](../assets/images/ai-first/ai-bob.gif)
 
 ## 🚀 This Isn’t a Thought Experiment — It’s Our Daily Reality
