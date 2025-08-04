@@ -117,3 +117,21 @@ search: false
     }
   }
 }
+
+
+.social-share a[href*="medium.com"] {
+  background-color: #ff4500;
+  color: white;
+}
+
+
+.btn--linkedin {
+  background-color: #00ab6c;
+  color: white;
+
+  &:hover {
+    background-color: darken(#00ab6c, 10%);
+    color: white;
+  }
+}
+
