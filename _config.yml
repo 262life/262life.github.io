@@ -21,10 +21,9 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/teaser.png"
 logo                     : "/assets/images/logo.png"
-#og_image                : "/assets/images/twitter-card.png"
-og_image                 : /assets/images/linkedin-site.png
-twitter_image            : /assets/images/twitter-site.png
-linkedin_image           : /assets/images/linkedin-site.png
+og_image                 : assets/images/linkedin-site.png
+twitter_image            : assets/images/twitter-site.png
+linkedin_image           : assets/images/linkedin-site.png
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
