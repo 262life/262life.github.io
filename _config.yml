@@ -22,14 +22,16 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : "/assets/images/teaser.png"
 logo                     : "/assets/images/logo.png"
 og_image                 : /assets/images/linkedin-site.png
-twitter_image            : /assets/images/twitter-site.png
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 minimal_mistakes_skin: "air"
 search: true
 
-#twitter_username: username
+twitter:
+  card: summary_large_image
+  username: 262life_bob   # optional, if you want "via @handle"
+
 #github_username: username
 
 # Build settings
