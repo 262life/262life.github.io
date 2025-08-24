@@ -31,8 +31,8 @@ twitter:
   username: 262life_bob   # optional, if you want "via @handle"
   card: summary_large_image
 
-image                    : /assets/images/default-card.png
-og_image                 : /assets/images/linkedin-site.png
+image: /assets/images/default-card.png
+og_image: /assets/images/linkedin-site.png
 
 #github_username: username
 
