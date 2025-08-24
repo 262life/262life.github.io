@@ -32,7 +32,7 @@ twitter:
   username: 262life_bob   # optional, if you want "via @handle"
 
 twitter_image: /assets/images/linkedin-site.png
-og_image                 : /assets/images/linkedin-site.png
+og_image                 : /assets/images/default-card.png
 
 #github_username: username
 
