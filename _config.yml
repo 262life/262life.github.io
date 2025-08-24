@@ -28,11 +28,9 @@ minimal_mistakes_skin: "air"
 search: true
 
 twitter:
-  # username:    # optional, if you want "via @handle"
+  username: 262life_bob    # optional, if you want "via @handle"
   card: summary_large_image
 
-image: /assets/images/default-card.png
-twitter_image: /assets/images/default-card.png
 og_image: /assets/images/linkedin-site.png
 
 #github_username: username
