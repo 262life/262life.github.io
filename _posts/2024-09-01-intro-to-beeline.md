@@ -1,7 +1,6 @@
 ---
 title:  "Beeline"
 summary: "Quick and Easy guide to Beeline shortcuts for kubectl"
-header:
 excerpt_separator: <!--more-->
 ---
 <img align="left" src="/assets/images/K8-Beeline.png">

@@ -28,11 +28,11 @@ minimal_mistakes_skin: "air"
 search: true
 
 twitter:
-  card: summary_large_image
   username: 262life_bob   # optional, if you want "via @handle"
+  card: summary_large_image
 
-twitter_image: /assets/images/linkedin-site.png
-og_image                 : /assets/images/default-card.png
+image                    : /assets/images/default-card.png
+og_image                 : /assets/images/linkedin-site.png
 
 #github_username: username
 
@@ -71,6 +71,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 
 # Site Author
