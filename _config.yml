@@ -32,6 +32,8 @@ twitter:
   card: summary_large_image
 
 og_image: /assets/images/linkedin-site.png
+header: 
+ og_image: /assets/images/linkedin-site.png
 
 #github_username: username
 
