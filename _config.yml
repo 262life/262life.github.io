@@ -159,7 +159,7 @@ defaults:
   # _drafts
   - scope:
       path: "_drafts"
-      type: drafts
+      type: pages
     values:
       layout: single
       author_profile: true
