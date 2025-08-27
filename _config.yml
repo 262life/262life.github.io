@@ -49,6 +49,7 @@ head_scripts:
 
 include:
   - _pages
+  - _drafts
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -155,7 +156,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+  # _drafts
+  - scope:
+      path: "_drafts"
+      type: drafts
+    values:
+      layout: single
+      author_profile: true
 category_archive:
   type: liquid
   path: /categories/
