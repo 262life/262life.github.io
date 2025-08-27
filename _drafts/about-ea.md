@@ -20,7 +20,7 @@ excerpt: |
 
   It stung a little—but it also reminded me why Enterprise Architecture matters. "
 
-  ![](/assets/images/image2.png)
+  ![](/assets/images/about-ea/image2.png)
 
 header:
   og_image: /assets/images/linkedin-site.png  # Required for Twitter wide card
@@ -90,8 +90,8 @@ And that’s exactly what AI reminded me: sometimes the hardest truths about you
 
 **A Little Humor Helps**
 
-![](/assets/image.png)
+![](/assets/images/about-ea/image.png)
  *Enterprise Architecture: Keeping you from falling into chaos since… forever.*
 
-![](/assets/images/image2.png)
+![](/assets/images/about-ea/image2.png)
  *Without EA vs. With EA.*
