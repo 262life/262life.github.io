@@ -6,10 +6,8 @@ categories:
 tags:
   - productivity
   - EA
-excerpt_separator: <!--more-->
-header:
-  og_image: /assets/images/linkedin-site.png  # Required for Twitter wide card
----
+excerpt: 
+  "
 ## 🔎 What happens when you ask AI to give you an *unbiased* assessment of yourself?
 
 I did it—no filters, no sugar-coating.
@@ -21,11 +19,13 @@ I did it—no filters, no sugar-coating.
 
  ➡️ *“You’re operations minded… but that doesn’t mean you work in operations.”*
 
-It stung a little—but it also reminded me why Enterprise Architecture matters.
+It stung a little—but it also reminded me why Enterprise Architecture matters. "
 
 ![](/assets/images/image2.png)
 
-<!--more-->
+header:
+  og_image: /assets/images/linkedin-site.png  # Required for Twitter wide card
+---
 
 ## Attention
 
