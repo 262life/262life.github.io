@@ -14,13 +14,16 @@ header:
 
 I did it—no filters, no sugar-coating.
  AI came back with some truths that were funny, a little uncomfortable, and painfully accurate:
+
  ➡️ *“You’re a strategist, not a coder.”*
+
  ➡️ *“Your work is invisible until it fails.”*
+
  ➡️ *“You’re operations minded… but that doesn’t mean you work in operations.”*
 
 It stung a little—but it also reminded me why Enterprise Architecture matters.
 
-![image 2.png](blob:file:///1bdd1f25-bb14-4353-b6b7-b29edd07379d)
+![](/assets/images/image2.png)
 
 <!--more-->
 
@@ -88,8 +91,8 @@ And that’s exactly what AI reminded me: sometimes the hardest truths about you
 
 **A Little Humor Helps**
 
-![image.png](/assets/image.png)
+![](/assets/image.png)
  *Enterprise Architecture: Keeping you from falling into chaos since… forever.*
 
-![image 2.png](/assets/images/image1.png)
+![](/assets/images/image2.png)
  *Without EA vs. With EA.*
