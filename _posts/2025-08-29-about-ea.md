@@ -20,8 +20,7 @@ excerpt: |
 
   It stung a little—but it also reminded me why Enterprise Architecture matters. "
 
-  ![](../assets/images/about-ea/image2.png)
-  
+  ![](../assets/images/about-ea/image2.png)  
 header:
   og_image: /assets/images/linkedin-site.png  # Required for Twitter wide card
 ---
@@ -37,7 +36,9 @@ The result? Brutally honest, sometimes uncomfortable, occasionally funny, and su
 
 Here’s a sample of what AI had to say about me:
  ➡️ *“You’re a strategist, not a coder.”*
+
  ➡️ *“Your work is invisible until it fails.”*
+
  ➡️ *“You balance cost, speed, scalability, and security daily (and it’s as fun as it sounds).”*
 
 At first, I laughed. Then I winced. Then I realized: these reflections weren’t just true about me—they captured the reality of Enterprise Architecture itself.
